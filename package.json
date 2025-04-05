@@ -1,0 +1,20 @@
+{
+  "name": "resumegenerator",
+  "version": "1.0.0",
+  "description": "node js app to generator resume in pdf format from html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "node",
+    "html"
+  ],
+  "author": "roshanaalemagar",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
+}
